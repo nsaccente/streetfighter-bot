@@ -1,3 +1,6 @@
 venv/*
 excludes/*
 .ipynb_checkpoints/*
+opt/*
+logs/*
+train/*
